@@ -1,0 +1,24 @@
+.content-details p{
+    font-size: 14px;
+    line-height: 24px;
+    margin: 10px 0px;
+    color: #777777;
+}
+.content-details h1,h2{
+    margin: 20px 0px;
+}
+.content-details h3,h4,h5,h6{
+    margin: 10px 0px;
+}
+.profile-title p{
+    font-size: 14px;
+    line-height: 24px;
+    margin: 10px 0px;
+    color: #777777;
+}
+.profile-title h1,h2{
+    margin: 20px 0px;
+}
+.profile-title h3,h4,h5,h6{
+    margin: 10px 0px;
+}

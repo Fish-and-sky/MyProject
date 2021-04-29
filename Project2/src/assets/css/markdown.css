@@ -1,0 +1,31 @@
+.markdown body{
+    font-size: 16px;
+}
+.markdown{
+    word-wrap: break-word;
+	word-break: break-all;
+}
+.markdown h1{
+    font-size: 60px;
+    font-weight: bold;
+}
+.markdown h2{
+    font-size: 40px;
+    font-weight: bold;
+}
+.markdown h3{
+    font-size: 20px;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+.markdown p{
+    font-size: 16px;
+    line-height: 26px;
+    text-align: center;
+    object-fit: fill;
+    margin-bottom: 20px;
+}
+.markdown img{
+    width: 94%;
+    height: 100%;
+}
